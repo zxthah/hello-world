@@ -54,4 +54,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
   	  </plugin>
     </plugins>
   </build>
+  <properties>  
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
+  </properties>  
 </project>  
