@@ -15,6 +15,11 @@ http://maven.apache.org/maven-v4_0_0.xsd">
   	  <version>4.7</version>
   	  <scope>test</scope>
     </dependency>
+<dependency>
+  <groupId>log4j</groupId>
+  <artifactId>log4j</artifactId>
+  <version>1.2.9</version>
+</dependency>
   </dependencies>
   <build>
     <plugins>
