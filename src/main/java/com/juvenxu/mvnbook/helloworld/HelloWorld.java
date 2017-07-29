@@ -13,6 +13,6 @@ public class HelloWorld {
 	{
 		System.out.print( new HelloWorld().sayHello() );
         Logger logger = Logger.getLogger(HelloWorld.class);
-        logger.info("logger");
+        logger.info("lest scm");
 	}
 }
